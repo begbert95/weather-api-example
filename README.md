@@ -13,4 +13,4 @@ I'm not leaving my API key out in public :)
 # Screenshot
 Here's my screenshot showing it's working, as of 2024-03-28 @ 12:18 MDT:
 
-![screenshot](api-usage-screenshot.jpg)
+![screenshot](api-usage-screenshot.png)
